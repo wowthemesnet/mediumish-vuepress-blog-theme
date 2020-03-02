@@ -52,7 +52,6 @@ export default {
     a
       color $darkTextColor
       font-weight bold
-      font-family PT Serif, Serif
       text-decoration none
 
   .header-right-wrap

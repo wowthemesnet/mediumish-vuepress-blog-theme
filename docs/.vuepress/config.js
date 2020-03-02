@@ -31,7 +31,7 @@ module.exports = {
         },
         {
           type: 'github',
-          link: 'https://github.com/wowthemesnet',
+          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
         },
         {
           type: 'gitlab',
@@ -68,7 +68,11 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Licensed MIT',
+          text: 'Download',
+          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
+        },
+        {
+          text: 'Licensed MIT.',
           link: 'https://wowthemes.net/donate',
         },
         {

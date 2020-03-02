@@ -7,6 +7,12 @@
 
 # Install
 
+Clone or download
+
+```
+git clone https://github.com/wowthemesnet/mediumish-vuepress-blog-theme.git
+```
+
 Install packages
 
 ```
