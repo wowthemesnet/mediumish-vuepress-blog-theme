@@ -3,7 +3,7 @@
 
 https://wowthemesnet.github.io/vuepress-theme-mediumish/
 
-[mediumish vuepress blogging theme!](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
+![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
 
 # Install
 
