@@ -2,7 +2,7 @@
   <div id="mobile-header">
     <div class="mobile-header-bar">
       <div class="mobile-header-title">
-        <NavLink link="/" class="mobile-home-link">{{ $site.title }} </NavLink>
+        <NavLink link="/" class="mobile-home-link navbar-brand"><img :src="($withBase)($themeConfig.logo)"> {{ $site.title }} </NavLink>
         <component
           :is="isOpen ? 'XIcon' : 'MenuIcon'"
           @click="$emit('toggle-sidebar')"
@@ -47,7 +47,6 @@ export default {
 
 <style lang="stylus">
 .mobile-header-bar
-  font-family PT Serif, Serif
   z-index 12
   position fixed
   top 0
@@ -67,10 +66,7 @@ export default {
 
     .mobile-home-link
       text-decoration none
-      text-transform uppercase
-      font-family PT Serif, Serif
-      color #222
-      font-weight bold
+      color inherit
 
 .mobile-nav-item
   padding 10px 0

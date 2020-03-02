@@ -68,16 +68,12 @@ module.exports = {
       ],
       copyright: [
         {
-          text: 'Download',
-          link: 'https://github.com/wowthemesnet/mediumish-vuepress-blog-theme',
-        },
-        {
           text: 'Licensed MIT.',
-          link: 'https://wowthemes.net/donate',
+          link: 'https://bootstrapstarter.com/license/',
         },
         {
           text: 'Made with Mediumish - free Vuepress theme',
-          link: 'https://bootstrapstarter.com',
+          link: 'https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/',
         },
       ],
     },

@@ -69,14 +69,10 @@ export default {
         margin-left 20px
 
         a
-          font-family PT Serif, Serif
-          font-size 20px
-          // color lighten(#3eaf7c, 30%)
           text-decoration none
           transition color 0.3s
 
     .search-box
-      font-family PT Serif, Serif
       margin-left 20px
 
       input
