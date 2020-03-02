@@ -1,7 +1,7 @@
 
 # Demo 
 
-https://wowthemesnet.github.io/vuepress-theme-mediumish/
+[See it in action](https://wowthemesnet.github.io/vuepress-theme-mediumish/)
 
 ![mediumish vuepress blogging theme](https://wowthemesnet.github.io/vuepress-theme-mediumish/assets/img/screenshot.jpg)
 
