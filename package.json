@@ -1,11 +1,19 @@
 {
   "name": "mediumish-vuepress-blog-theme",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Mediumish blog theme for VuePress",
   "repository": {
     "type": "git",
     "url": "wowthemesnet/mediumish-vuepress-blog-theme"
   },
+  "keywords": [
+    "vue",
+    "vuepress",
+    "vuepress-theme",
+    "blog-theme",
+    "blog",
+    "theme"
+  ],
   "license": "MIT",
   "author": "sal<wowthemesnet@gmail.com>",
   "files": [
