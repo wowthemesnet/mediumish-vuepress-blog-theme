@@ -47,6 +47,7 @@
     "@vuepress/plugin-search": "1.0.0",
     "bootstrap-4-stylus": "^1.0.7",
     "dayjs": "^1.8.19",
+    "lodash": "^4.17.15",
     "remove-markdown": "^0.3.0",
     "vue-feather-icons": "^4.21.0",
     "vuepress-plugin-smooth-scroll": "^0.0.9"
