@@ -1,7 +1,7 @@
 
 # VuePress Theme Mediumish
 
-This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, integration, categories, newsletter, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
+This is a free VuePress Bootstrap Blogging Theme, Medium styled, fully featured: multi author, integration, categories, newsletter, Disqus, RSS, sitemap, TOC, Prism, 100% Github pages compatible, ready for automatic deployment.
 
 [View Demo](https://wowthemesnet.github.io/vuepress-theme-mediumish/) | [View Documentation](https://bootstrapstarter.com/bootstrap-templates/vuepress-theme-mediumish/)
 
