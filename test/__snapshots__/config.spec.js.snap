@@ -2,6 +2,7 @@
 
 exports[`should match snapshot without any configuration 1`] = `
 Object {
+  "logo": "/assets/img/logo.png",
   "nav": Array [
     Object {
       "link": "/",
@@ -21,7 +22,7 @@ Object {
 exports[`should match snapshot without any configuration 2`] = `
 Object {
   "alias": Object {
-    "fonts": "/Users/billy/Desktop/vuepress-projects/vuepress-theme-blog/fonts",
+    "fonts": "C:\\\\Users\\\\Gi\\\\Work\\\\1.MyGithubSites\\\\vuepress-theme-mediumish\\\\fonts",
   },
   "define": Object {
     "THEME_BLOG_PAGINATION_COMPONENT": "Pagination",
@@ -60,7 +61,7 @@ Object {
           },
         ],
         "globalPagination": Object {
-          "lengthPerPage": 5,
+          "lengthPerPage": 6,
         },
       },
     ],
