@@ -1,6 +1,6 @@
 {
-  "name": "mediumish-vuepress-blog-theme",
-  "version": "1.0.2",
+  "name": "vuepress-theme-mediumish",
+  "version": "1.0.32",
   "description": "Mediumish blog theme for VuePress",
   "repository": {
     "type": "git",
